@@ -1,37 +1,41 @@
-<h1 align="center">Hi 👋, I'm Vijaya Karthik</h1>
-<h3 align="center">A passionate Gen AI Engineer from India</h3>
+# Hi, I'm Vijaya Karthik 👋
 
-- 🌱 I’m currently learning **IBM Generative AI Engineering**
+**GenAI Engineer** building production-grade multimodal RAG systems — end to end, from ingestion to deployment.
 
-- 👯 I’m looking to collaborate on **Gen AI Projects**
+I specialize in **finance-domain retrieval-augmented generation**: systems that have to get numbers right, resist prompt injection, and prove their accuracy with a real evaluation harness instead of a demo.
 
-- 🤝 I’m looking for help with **Gen AI**
+## 🔭 Currently building
 
-- 💬 Ask me about **Gen AI**
+**[MAGIK](https://github.com/vjkarthik98/MULTIMODAL-AGENTIC-RAG-INTEGRATED-KNOWLEDGE-AI-ASSISTANT)** — a multimodal, agentic RAG assistant that ingests text, PDF, DOCX, XLSX, images, audio, and video, routes queries through an agentic controller, retrieves with a hybrid BM25 + dense pipeline, and verifies its own answers before they reach the user. Runs entirely on open-source models — no paid LLM API in the request path.
 
-- 📫 How to reach me **karthikvj398@gmail.com**
+See it live → **[vk-ai.online](https://vk-ai.online)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vijaya karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaya karthik" height="30" width="40" /></a>
-<a href="https://kaggle.com/vjkarthik98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vjkarthik98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vjkarthik98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vjkarthik98" height="30" width="40" /></a>
-</p>
+## 🛠️ Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<!--
-**vjkarthik98/vjkarthik98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI / ML** &nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/-llama.cpp-000000?style=flat-square)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
 
-Here are some ideas to get you started:
+**Backend / Infra** &nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+## 📫 Reach me
+
+[![Email](https://img.shields.io/badge/-karthikvj398%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthikvj398@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayakarthik)
